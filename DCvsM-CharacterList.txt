@@ -1,16 +1,31 @@
-DC Comic Characters
------------------------------------------------
+----------------------------------
+---     DC Comic Characters    ---
+----------------------------------
+**********  Heroes  **************
+----------------------------------
 Superman
 Batman
 Flash
 Wonder Woman
 Aquaman
 Green Lantern
-**What about DC Villains? [Marvel Comment]
+----------------------------------
+*********  Villains  *************
+----------------------------------
+Joker
+Lex Luthor
+Darkseid
+Sinestro
+Brainiac
+Black Adam
+Ra's al Ghul
 
 
-Marvel Main Characters
------------------------------------------------
+----------------------------------
+---   Marvel Main Characters   ---
+----------------------------------
+**********  Heroes  **************
+----------------------------------
 Spider-Man
 Daredevil
 Doctor Strange
@@ -19,3 +34,12 @@ Ghost Rider
 Thor
 Iron Man
 Wolverine
+----------------------------------
+*********  Villains  *************
+----------------------------------
+Doctor Doom
+Magneto
+Red Skull
+Galactus
+Ultron
+Norman Osborn
